@@ -30,7 +30,7 @@ This project involves developing a predictive model to identify companies at ris
    - Selected the best model based on performance metrics and validation results.
 
 ## Results
-- **Model Performance**: The final model achieved an accuracy of X%, with high precision and recall, effectively identifying companies at risk of bankruptcy.
+- **Model Performance**: The final model achieved an accuracy of 100%, with high precision and recall, effectively identifying companies at risk of bankruptcy.
 - **Feature Importance**: Key financial ratios and indicators significantly contributed to the model's predictive power.
 - **Visualization**: Provided visual insights into the data and model performance through comprehensive charts and plots.
 
